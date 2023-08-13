@@ -1,8 +1,8 @@
 # Libft
 My very first own library including following functions.
 
-• isalpha 
-• isdigit 
+• isalpha  
+• isdigit  
 • isalnum 
 • isascii 
 • isprint
