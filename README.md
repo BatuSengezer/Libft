@@ -1,9 +1,9 @@
 # Libft
 My very first own library including following functions.
 
-• isalpha  
-• isdigit  
-• isalnum  
+• isalpha\
+• isdigit\ 
+• isalnum 
 • isascii  
 • isprint  
 • strlen  
@@ -33,5 +33,5 @@ My very first own library including following functions.
 • striteri  
 • putchar_fd  
 • putstr_fd  
-• putendl_fd  
-• putnbr_fd  
+• putendl_fd\
+• putnbr_fd\
