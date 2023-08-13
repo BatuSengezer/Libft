@@ -34,4 +34,4 @@ My very first own library including following functions:
 • putchar_fd\
 • putstr_fd\
 • putendl_fd\
-• putnbr_fd\
+• putnbr_fd
